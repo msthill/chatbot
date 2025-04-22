@@ -3,6 +3,7 @@
 // Date: 04/21/2025
 // Email: micah.sthill@tcu.edu, harlem.mariscal@tcu.edu
 // Assignment: Lab 4 - Server
+// i love git
 
 import java.io.*;
 import java.net.*;
